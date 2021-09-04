@@ -1,1 +1,1 @@
-![Banner](./images/xylophoneui.jpg)
+![Banner](./assets/xylophoneui.jpg)
